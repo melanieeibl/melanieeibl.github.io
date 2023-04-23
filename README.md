@@ -34,3 +34,4 @@ https://github.com/dotnet/docfx
 
 https://github.com/steffen-wilke/darkfx/
 
+Run docfx template export default. It exports what's inside default template into the folder _exported_templates. You can see that there are sets of Preprocessor and Renderer files to deal with different types of documents.
