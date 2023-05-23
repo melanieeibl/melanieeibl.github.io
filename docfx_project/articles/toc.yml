@@ -1,5 +1,5 @@
 - name: Introduction
-  href: intro.md
+  href: index.md
 - name: Bulk git mv
   href: BulkGitMv.md
 - name: Automatisches Laden von PowerShell Modulen mit PowerShell Profilen
