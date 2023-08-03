@@ -1,8 +1,5 @@
 - name: Articles
   href: articles/
-#- name: Api Documentation
-#  href: api/
-#  homepage: api/index.md
 - name: About me
   href: about/
   homepage: about/index.md
