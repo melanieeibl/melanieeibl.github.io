@@ -1,5 +1,5 @@
 <div id="container">
-    <img src="images/_Q1A2953_square.jpg" alt="Melanie Eibl" class="img-mee">
+    <img src="/images/_Q1A2953_square.jpg" alt="Melanie Eibl" class="img-mee">
 </div>
 
 <h2 style="text-align: center;">Melanie Eibl</h2>
@@ -19,9 +19,7 @@
 
 ## Bulk git mv
 
-<div class="img-post-mee" style="float: left;">
-    <img src="images/PowerShell-7-Avatar-Icon.png" alt="Melanie Eibl">
-</div>
+![Chibi](/images/PowerShell-7-Avatar-Icon.png)
 
 Wenn ein größerer struktureller Umbau einer Solution ansteht, möchte man trotzdem hinterher auf die Git-Historie zurückgreifen können.
 
@@ -29,10 +27,9 @@ Wenn ein größerer struktureller Umbau einer Solution ansteht, möchte man trot
 
 ## Automatisches Laden von PowerShell Modulen mit PowerShell Profilen
 
-<div class="img-post-mee" style="float: left;">
-    <img src="images/PowerShell-7-Avatar-Icon.png" alt="Melanie Eibl">
-</div>
+![Chibi](/images/PowerShell-7-Avatar-Icon.png)
 
 Wer PowerShell häufig interaktiv auf der Konsole verwendet, kennt es wahrscheinlich: Immer wieder muss man Module mit Import-Module laden, um sie anschließend verwenden zu können. Durch den Eintrag des Import-Module Statements in ein PowerShell Profil, können Module automatisch importiert werden.
 
 [Zum Artikel](/articles/LoadPsModule.html)
+

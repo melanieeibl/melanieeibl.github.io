@@ -27,9 +27,15 @@
     ],
     "dest": "_site",
     "globalMetadataFiles": [],
+    "globalMetadata": {
+      "_appTitle": "Melanie Eibl",
+      "_appLogoPath": "/images/favicon/icons8-camper-50.png",
+      "_appFaviconPath": "/images/favicon/icons8-camper-16.png"
+    },
     "fileMetadataFiles": [],
     "template": [
       "templates/default",
+      "templates/darkfx",
       "templates/darkfx-mee"
     ],
     "postProcessors": [],
