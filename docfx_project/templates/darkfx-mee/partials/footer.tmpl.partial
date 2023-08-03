@@ -5,6 +5,7 @@
   <div class="footer">
     <div class="container">
       <span class="pull-right">
+        <a style="margin-right: 30px; margin-left: 30px;" href="/impressum.html">Impressum</a>
         <a href="#top">Back to top</a>
       </span>
       <div class="pull-left">
