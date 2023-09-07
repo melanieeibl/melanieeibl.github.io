@@ -37,5 +37,5 @@ Gute Anforderungen mit einem klaren Blick auf das Ziel sind eine gute Investitio
 
 ## Kontakt
 
-Telefon: +491758877049\
-E-Mail: mail[at]melanie-eibl.de
+Telefon: <a href="tel:+491758877049">+49 (0) 1758 877049</a>\
+E-Mail: <a href="mailto:mail@melanie-eibl.de">mail[at]melanie-eibl.de</a>
