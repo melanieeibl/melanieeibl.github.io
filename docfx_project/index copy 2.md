@@ -2,13 +2,18 @@
     <img src="/images/_Q1A2953_square.jpg" alt="Melanie Eibl" class="img-mee">
 </div>
 
-<p style="text-align: center; font-weight: 600; font-size: 24px; line-height: 1.8;">Melanie Eibl</p>
-<p style="text-align: center; font-weight: 600; font-size: 20px; ">Dipl.-Ing. (FH), M.Sc. Informatik</p>
-<p style="text-align: center; font-weight: 600; font-size: 20px; ">Freiberufliche Beraterin und Softwareentwicklerin</p>
+<h2 style="text-align: center;">Melanie Eibl</h2>
+<h3 style="text-align: center;">Dipl.-Ing. (FH), M.Sc. Informatik</h3>
+<h3 style="text-align: center;">Freiberufliche Beraterin und Softwareentwicklerin</h3>
+
 
 <div style=" margin: auto; width: 50%; width: fit-content;">
+
   <a id="linkedin" target="_blank" href="https://www.linkedin.com/in/melanieeibl" aria-label="LinkedIn" rel="noreferrer"><img src="/images/social/linkedin.svg" alt="Twitter" width="24" height="24"></a>
+  
   <a id="twitter" target="_blank" href="https://twitter.com/melanieeibl" aria-label="Twitter" rel="noreferrer"><img src="/images/social/twitter.svg" alt="GitHub" width="24" height="24"></a>
+ 
+  
 </div>
 
 <hr class="hr-mee"/>
@@ -34,8 +39,3 @@ Bei der Frage was und wie getestet wird, sollte ein risikobasierter Ansatz gewä
 ## Anforderungsmanagement
 
 Gute Anforderungen mit einem klaren Blick auf das Ziel sind eine gute Investition ins Projekt. Gute Anforderungen fördern das Verständnis im Team. Gute Anforderungen mindern Risiken im Hinblick auf Fehlentwicklungen. Kein Code ohne gemeinsames Verständnis der Anforderungen.
-
-## Kontakt
-
-Telefon: +491758877049\
-E-Mail: mail[at]melanie-eibl.de
