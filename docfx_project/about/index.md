@@ -26,12 +26,9 @@
 
 https://learn.microsoft.com/en-us/users/melanieeibl-9593/transcript/7ozyos810yzm9g3
 
-## Ausbildung
+## Ausbildung und Studium
 
-Industriekauffrau bei Dynamit Nobel AG in Troisdorf
-
-## Studium
-
+09/1990 - 05/1992 Industriekauffrau bei Dynamit Nobel AG in Troisdorf
 09/1993 - 03/1998	Bauingenieurwesen mit Fachrichtung: „Konstruktiver Ingenieurbau“ an der Fachhochschule Köln; Abschluss: Dipl.-Ing (FH)\
 09/2007 - 06/2013	Praktische Informatik mit Schwerpunkt „Betriebssysteme, verteilte und kooperative Systeme“ an der Fernuniversität in Hagen; Abschluss: Master of Science (M.Sc.)
 
@@ -45,35 +42,42 @@ Industriekauffrau bei Dynamit Nobel AG in Troisdorf
 01/2014 - 12/2017 Angestellte ORBIT Gesellschaft für Applikations- und Informationssysteme mbH, Bonn\
 seit 01/2018 selbstständig
 
-## Sprachen
+## Skills
 
-Deutsch (Muttersprache), Englisch (gut)
+### Softwareentwicklung
 
-## Kenntnisse
-
-Softwareentwicklung:
-* .NET Core
 * C#
-* REST/HTTP-Services
-* ASP.NET Core
-* ASP.NET Core MVC
-* SQL, T-SQL
-* MS SQL Server
-* Windows Communication Foundation (WCF)
-* Power Shell, Pester
-* Bicep
-* Azure PaaS
-* Azure DevOps
+* .NET
 * OAuth 2.0 und OpenID Connect
+* ASP.NET
+  * REST/HTTP-Services
+  * MVC
+  * WebAPI
+  * Razor Pages
+  * SignalR
+* Microsoft SQL Server
+  * SQL, T-SQL
+* PowerShell
+  * Testen mit Pester
+* Microsoft Azure
+  * Bicep
+  * Azure PaaS
+  * Azure DevOps Services (Boards, Repos, Pipelines)
+* Oracle Database
+* Windows Communication Foundation (WCF)
 * Testautomatisierung, Agile Testing
 * Docs as Code
 
-Projekttechniken:
+## Projekttechniken
+
 * Scrum / Agile Methoden
 * Anforderungsmanagement
-* Dienstleistersteuerung
 * Projektdokumentation
 * Prince2
+
+## Sprachen
+
+Deutsch (Muttersprache), Englisch (gut), Französich (Grundkenntnisse)
 
 ## Kontakt
 
