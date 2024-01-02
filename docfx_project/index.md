@@ -27,9 +27,7 @@ Softwarearchitektur ist für mich die Kunst unter Berücksichtigung vielfältige
 
 ## Qualitätssicherung
 
-Softwareentwicklung fühlt sich oft wie ein Kampf gegen Windmühlen an, wenn z.B. der Aufwand für Entwicklungen an einem System nicht im Einklang mit den Vorstellungen wichtiger Stakeholder zusammen passt. Häufig ist dies auf technische Schulden im Bereich der Qualitätssicherung zurückzuführen. Zu meiner festen Überzeugung gehört, dass je früher ein Fehler gefunden wird, desto weniger kostet er. Das Mittel der Wahl sind dabei nicht immer UnitTests (wobei ich hier TDD nicht in Frage stellen möchte!). Es gibt viele Wege Qualität hinreichend sicherstellen. Ich unterstütze bei der Suche.
-
-Bei der Frage was und wie getestet wird, sollte ein risikobasierter Ansatz gewählt werden. Ressourcen sollten nicht vorwiegend in das Testen von unkritischen Systemen fließen. Vielmehr sind kritische Testfälle frühzeitig zu identifizieren, zu formulieren und zu treiben.
+Die Qualitätssicherung ist eine wichtige Säule in der Softwareentwicklung. Es gibt viele Wege Qualität sicherstellen. Gerne unterstütze ich bei der Erarbeitung der richtigen Strategie.
 
 ## Anforderungsmanagement
 
