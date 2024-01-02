@@ -11,3 +11,8 @@ https://www.dotnetpro.de/core/powershell/schweizer-taschenmesser-automatisierung
 
 Testen mit PowerShell und Pester - Der Universaltester
 https://www.dotnetpro.de/core/testing/universaltester-2803958.html
+
+## Kontakt
+
+Telefon: <a href="tel:+491758877049">+49 (0) 1758 877049</a>\
+E-Mail: <a href="mailto:mail@melanie-eibl.de">mail[at]melanie-eibl.de</a>

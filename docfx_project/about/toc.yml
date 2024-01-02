@@ -1,4 +1,8 @@
-- name: Index
-  href: index.md
+# - name: Index
+  # href: index.md
+- name: Skills
+  href: skills.md
 - name: Articles
   href: articles.md
+- name: Ausbildung
+  href: education.md
