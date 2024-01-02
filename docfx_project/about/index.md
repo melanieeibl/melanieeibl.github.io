@@ -46,29 +46,37 @@ seit 01/2018 selbstständig
 
 ### Softwareentwicklung
 
-* C#
-* .NET
-* OAuth 2.0 und OpenID Connect
-* ASP.NET
-  * REST/HTTP-Services
-  * MVC
-  * WebAPI
-  * Razor Pages
-  * SignalR
-* Microsoft SQL Server
-  * SQL, T-SQL
-* PowerShell
-  * Testen mit Pester
-* Microsoft Azure
-  * Bicep
-  * Azure PaaS
-  * Azure DevOps Services (Boards, Repos, Pipelines)
-* Oracle Database
+* C#, .NET Core, ASP.NET Core
+* ASP.NET Core MVC, Razor Pages
+* SignalR
+* EntityFramework
+* Vue.js
+* REST/HTTP-Services
+* SQL, T-SQL
+* MS SQL Server
 * Windows Communication Foundation (WCF)
+* Docker
+* Power Shell, Pester, Cypress.io
+* OAuth 2.0 und OpenID Connect
+* IdentityServer4, Duende IdentityServer
+* SOLID, Clean Code
 * Testautomatisierung, Agile Testing
 * Docs as Code
+* WinForms, WPF
 
-## Projekttechniken
+### Microsoft Azure
+
+* Bicep, Pulumi
+* Key Vault
+* Logic Apps
+* Web Apps/App Services
+* Log Analythics
+* Blob Storage
+* SQL Database
+* Azure DevOps (Boards, Pipelines, Repos auch Konfiguration und Rechtemanagement)
+* Azure AD B2C
+
+### Projekttechniken
 
 * Scrum / Agile Methoden
 * Anforderungsmanagement
