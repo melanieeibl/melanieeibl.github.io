@@ -44,12 +44,12 @@ seit 01/2018 selbstständig
 
 ## Community und sonstige Aktivitäten
 
-Sprecherin Bonn-To-Code 2010 https://www.bonn-to-code.net/1786.html\
-Sprecherin dotnet User Group Köln 2011, 2017 und 2018\
-Organisatorin dotnet Cologne 2010 bis heute https://dotnet-cologne.de\
-Organisatorin Identity Summit 2020 bis 2022 https://identitysummit.cloud\
-Sprecherin Dotnet Developer Konferenz 2022 https://www.dotnet-developer-conference.de/history/programm-2022/#/talk/automatisiertes-testen-mit-powershell-und-pester\
-Sprecherin Hamburg PowerShell UserGroup 2023 https://www.meetup.com/de-DE/hamburg-powershell-user-group/events/290686617/\
+* Sprecherin Bonn-To-Code 2010 https://www.bonn-to-code.net/1786.html\
+* Sprecherin dotnet User Group Köln 2011, 2017 und 2018\
+* Organisatorin dotnet Cologne 2010 bis heute https://dotnet-cologne.de\
+* Organisatorin Identity Summit 2020 bis 2022 https://identitysummit.cloud\
+* Sprecherin Dotnet Developer Konferenz 2022 https://www.dotnet-developer-conference.de/history/programm-2022/#/talk/automatisiertes-testen-mit-powershell-und-pester\
+* Sprecherin Hamburg PowerShell UserGroup 2023 https://www.meetup.com/de-DE/hamburg-powershell-user-group/events/290686617/\
 
 ## Skills
 
