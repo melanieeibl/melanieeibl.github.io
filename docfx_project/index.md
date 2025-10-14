@@ -8,7 +8,6 @@
 
 <div style=" margin: auto; width: 50%; width: fit-content;">
   <a id="linkedin" target="_blank" href="https://www.linkedin.com/in/melanieeibl" aria-label="LinkedIn" rel="noreferrer"><img src="/images/social/linkedin.svg" alt="LinkedIn" width="24" height="24"></a>
-  <a id="twitter" target="_blank" href="https://twitter.com/melanieeibl" aria-label="Twitter" rel="noreferrer"><img src="/images/social/twitter.svg" alt="Twitter" width="24" height="24"></a>
 </div>
 
 <hr class="hr-mee"/>
