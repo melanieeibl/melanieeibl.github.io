@@ -1,0 +1,6 @@
+- name: Articles
+  href: articles/
+- name: About me
+  href: about/
+  homepage: about/index.md
+  
