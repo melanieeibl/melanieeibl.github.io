@@ -11,7 +11,7 @@
 
   <a id="linkedin" target="_blank" href="https://www.linkedin.com/in/melanieeibl" aria-label="LinkedIn" rel="noreferrer"><img src="/images/social/linkedin.svg" alt="Twitter" width="24" height="24"></a>
   
-  <a id="twitter" target="_blank" href="https://twitter.com/melanieeibl" aria-label="Twitter" rel="noreferrer"><img src="/images/social/twitter.svg" alt="GitHub" width="24" height="24"></a>
+  <!--<a id="twitter" target="_blank" href="https://twitter.com/melanieeibl" aria-label="Twitter" rel="noreferrer"><img src="/images/social/twitter.svg" alt="GitHub" width="24" height="24"></a>-->
  
   
 </div>
